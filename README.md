@@ -1,44 +1,37 @@
-<div align="center">
-   <h1>Uptimo</h1>
- </div>
- 
-🍭 Open-Source uptime script! [Demo](https://uptime.hyrousek.tk/)<br>
-🍬 Database: SQLITE (quick.db)<br>
-🍫 Language: JavaScript, HTML (NodeJS)<br>
-🧁 Start cmd: node index.js<br>
-🍩 Using: <a href="https://dev.hyrousek.tk">BeautifulCSS</a> (I made lol :D)
+Welcome to Glitch
+=================
 
-### Repl.it 💼
-[![Deploy to Repl.it](https://repl.it/badge/github/xHyroM/uptimo)](https://repl.it/github/xHyroM/uptimo)
-<br>
-Quick.db error?<br>
-<b>Fork <a href="https://repl.it/@xHyroM/Uptimo">this</a> project! [![FP](https://imgur.com/ASCKbYc.png)]</b>
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-### License
-You have to code "Made By Hyro" somewhere in the index.html or in that card 
-```
-<!-- Made by Hyro -->
-or 
-<div class="card center">
-    <p>Links: <%= has %></p>
-    <hr style="opacity: 10%">
-    <p>Made by <a href="https://hyrousek.tk" style="background: transparent;">HyRo</a><br>
-    Github <a href="https://github.com/xHyroM/Uptimo/" style="background: transparent;">repo</a>
-    </p>
-</div>
-```
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
-### WARNING
-If you want to ping your project it must contain the npm express plugin and this code:
-```js
-const express = require('express')
-const app = express()
- 
-app.get('/', function (req, res) {
-  res.send('For pinging')
-})
- 
-app.listen(process.env.port || 3000, async() => {
-  console.log("Ping website started")
-})
-```
+Find out more [about Glitch](https://glitch.com/about).
+
+
+Your Project
+------------
+
+### ← README.md
+
+That's this file, where you can tell people what your cool website does and how you built it.
+
+### ← index.html
+
+Where you'll write the content of your website. 
+
+### ← style.css
+
+CSS files add styling rules to your content.
+
+### ← script.js
+
+If you're feeling fancy you can add interactivity to your site with JavaScript.
+
+### ← assets
+
+Drag in `assets`, like images or music, to add them to your project
+
+Made by [Glitch](https://glitch.com/)
+-------------------
+
+\ ゜o゜)ノ
